@@ -1,6 +1,6 @@
 # PortifolioWeb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3. It was hosted on the Azure platform, see my portfolio in development: https://portifolio-web-app.azurewebsites.net/
 
 ## Development server
 
